@@ -11,7 +11,7 @@ body {
     border: 2px solid #000;
     margin: 0 auto;
     position: relative;
-    background-image: url('tausta.png'); /* Taustakuva */
+    background-image: url('tausta.png');
     background-size: cover; /* Skaalaa kuva täyttämään pelialue */
     background-repeat: no-repeat; /* Estää taustakuvan toistumisen */
     background-position: center; /* Keskittää taustakuvan */
